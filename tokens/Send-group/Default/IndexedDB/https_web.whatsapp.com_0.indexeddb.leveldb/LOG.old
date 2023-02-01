@@ -1,0 +1,32 @@
+2023/01/31-20:08:31.999 239c Reusing MANIFEST D:\www\bot-sendGroup\tokens\Send-group\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/31-20:08:31.999 239c Recovering log #697
+2023/01/31-20:08:32.035 239c Reusing old log D:\www\bot-sendGroup\tokens\Send-group\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000697.log 
+2023/01/31-20:08:46.109 1ab8 Level-0 table #709: started
+2023/01/31-20:08:46.152 1ab8 Level-0 table #709: 1103340 bytes OK
+2023/01/31-20:08:46.154 1ab8 Delete type=0 #697
+2023/01/31-20:08:46.203 1390 Compacting 1@1 + 12@2 files
+2023/01/31-20:08:46.343 1390 Generated table #710@1: 29411 keys, 2253162 bytes
+2023/01/31-20:08:46.420 1390 Generated table #711@1: 29020 keys, 2210422 bytes
+2023/01/31-20:08:46.464 1390 Generated table #712@1: 2627 keys, 2159106 bytes
+2023/01/31-20:08:46.507 1390 Generated table #713@1: 3072 keys, 2157736 bytes
+2023/01/31-20:08:46.579 1390 Generated table #714@1: 16422 keys, 2197016 bytes
+2023/01/31-20:08:46.673 1390 Generated table #715@1: 27364 keys, 2265012 bytes
+2023/01/31-20:08:46.733 1390 Generated table #716@1: 14234 keys, 2185530 bytes
+2023/01/31-20:08:46.853 1390 Generated table #717@1: 85691 keys, 2232509 bytes
+2023/01/31-20:08:46.986 1390 Generated table #718@1: 104363 keys, 2256260 bytes
+2023/01/31-20:08:47.048 1390 Generated table #719@1: 55272 keys, 1186782 bytes
+2023/01/31-20:08:47.048 1390 Compacted 1@1 + 12@2 files => 21103535 bytes
+2023/01/31-20:08:47.049 1390 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/01/31-20:08:47.049 1390 Delete type=2 #672
+2023/01/31-20:08:47.049 1390 Delete type=2 #673
+2023/01/31-20:08:47.049 1390 Delete type=2 #674
+2023/01/31-20:08:47.049 1390 Delete type=2 #695
+2023/01/31-20:08:47.049 1390 Delete type=2 #699
+2023/01/31-20:08:47.049 1390 Delete type=2 #700
+2023/01/31-20:08:47.049 1390 Delete type=2 #701
+2023/01/31-20:08:47.049 1390 Delete type=2 #702
+2023/01/31-20:08:47.049 1390 Delete type=2 #703
+2023/01/31-20:08:47.049 1390 Delete type=2 #704
+2023/01/31-20:08:47.049 1390 Delete type=2 #705
+2023/01/31-20:08:47.049 1390 Delete type=2 #706
+2023/01/31-20:08:47.049 1390 Delete type=2 #709
